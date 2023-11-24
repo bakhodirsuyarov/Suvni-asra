@@ -40,10 +40,6 @@ export default function Service() {
                 <a className='text-black text-base font-semibold' href="#!">Toshkent sh.</a>
               </button>
           </div>
-
-
-
-
         </div>
 
     </div>
