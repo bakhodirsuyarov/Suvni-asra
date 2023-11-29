@@ -1,21 +1,15 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./src/**/*.{html,js,jsx,ts,tsx}"],
+  content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     extend: {
-      colors: {
-        Pblue: "#337CCF",
+      screens: {
+        sm: "430px",
+        md: "834px",
+        lg: "1300px",
+        xl: "1600px",
       },
-      padding: {
-        p25: "25px"
-      },
-      left: {
-
-      },
-      top: {
-        t30: '2200px'
-      }
     },
   },
   plugins: [],
-}
+};
