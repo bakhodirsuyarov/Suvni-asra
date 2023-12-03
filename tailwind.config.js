@@ -11,8 +11,9 @@ module.exports = {
         boxShadowbtn: "0px 4px 4px 0px rgba(255, 196, 54, 0.10), 0px -4px 4px 0px rgba(255, 255, 255, 0.25) inset, 0px 4px 4px 0px rgba(0, 0, 0, 0.11) inset;"
       },
       screens: {
-        sm: "430px",
-        md: "834px",
+        ss: "320px",
+        sm: "650px",
+        md: "835px",
         lg: "1300px",
         xl: "1600px",
       },

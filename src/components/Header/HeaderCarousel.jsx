@@ -1,4 +1,4 @@
-import React, { useRef } from "react";
+import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, EffectFade } from "swiper/modules";
 import { Image } from '@chakra-ui/react'
